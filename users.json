@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "9780061120084",
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "isbn": "9780451524935",
+    "available": false
+  },
+  {
+    "id": 3,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "9780141439518",
+    "available": true
+  },
+  {
+    "id": 4,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "9780743273565",
+    "available": true
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "isbn": "9780316769488",
+    "available": false
+  },
+  {
+    "id": 6,
+    "username": "john_doe",
+    "password": "password123",
+    "email": "john@example.com"
+  }
+]
